@@ -2,8 +2,11 @@
 A complete list of academic assignments and projects done under the graduate coursework - "Predictive analytics using SAS" 
 
 Assignment 1 - Store Level Scanner Data Sales Prediction -> Analyzed peanut butter store-level scanner dataset to identify various metrics affecting brand sales & market share through SAS.
+
 Assignment 2 - Handling non-linearity, multicollinearity, heteroscedasticity effects and predicting wages on employee wages data set using Panel Data. 
+
 Assignment 3 - On a Industrial goods manufacturer's dataset, Estimate the effect of pioneering on market share by 2SLS model using SAS. 
+
 Assignment 4 - Credit Card data -> Tobit model, selection model and survival analysis.
 
 Project - 
