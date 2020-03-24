@@ -1,4 +1,4 @@
-LIBNAME cc 'H:\HW5';
+LIBNAME cc 'H:\HW4';
 DATA a1;
 SET cc.CC10;
 proc print data=a1 (obs=10);RUN;
