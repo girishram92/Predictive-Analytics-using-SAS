@@ -1,4 +1,4 @@
-proc import datafile = 'H:\HW 4\pims.xls'
+proc import datafile = 'H:\HW 3\pims.xls'
 out = pims
 dbms = xls replace;
 getnames=yes;
