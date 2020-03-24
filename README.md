@@ -1,5 +1,4 @@
 # Predictive-Analytics-using-SAS
-A complete list of academic assignments and projects done under the graduate coursework - "Predictive analytics using SAS" 
 
 Assignment 1 - Store Level Scanner Data Sales Prediction -> Analyzed peanut butter store-level scanner dataset to identify various metrics affecting brand sales & market share through SAS.
 
