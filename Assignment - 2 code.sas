@@ -1,4 +1,4 @@
-/*HW 3*/
+/*HW 2*/
 proc import datafile = "H:\HW 3\wage_updated" out = wage1
 dbms = csv replace;
 run; 
